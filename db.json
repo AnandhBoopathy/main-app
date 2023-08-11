@@ -1,0 +1,73 @@
+{
+    "recipes": [
+      {
+        "id": "1",
+        "title": "Google",
+        "App_Status": "UP",
+        "apps": [
+                {
+    "app": "www.youtube.com",
+    "scode": "none",
+    "Monitoring": true
+                },
+                {
+    "app": "https://www.google.com/",
+    "scode": "none",
+    "Monitoring": true
+                },
+          {
+    "app": "https://www.gmail.com/",
+    "scode": "none",
+    "Monitoring": false
+                },
+          {
+    "app": "https://www.gdrive.com/",
+    "scode": "none",
+    "Monitoring": false
+                }
+                ]
+      },
+      {
+        "id": "2",
+        "title": "Meta",
+        "App_Status": "UP",
+        "apps": [
+                {
+    "app": "https://www.facebook.com/",
+    "scode":"none"
+                },
+                {
+    "app": "https://instagram.com/",
+    "scode":"none"
+                },
+          {
+    "app": "https://thread.com/",
+    "scode":"none"
+                }
+                ]
+      },
+      {
+        "id": "3",
+        "title": "ElonMusk",
+        "App_Status": "UP",
+        "apps": [
+                {
+    "app": "https://www.twitter.com/",
+    "scode":"none"
+                },
+                {
+    "app": "https://www.tesla.com/",
+    "scode":"none"
+                },
+          {
+    "app": "https://www.spaceX.com/",
+    "scode":"none"
+                },
+          {
+    "app": "https://www.hyperloop.com/",
+    "scode":"none"
+                }
+                ]
+      }
+    ]
+  }
